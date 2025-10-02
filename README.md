@@ -14,7 +14,7 @@ KPI Cards
 😀 Happy Callers: 307
 
 
-Visual Insights
+**Visual Insights**
 
 Call Trend (Monthly) → Line chart showing call patterns across months.
 
@@ -25,7 +25,7 @@ Male vs Female Callers → Gender-based comparison across cities.
 Customer Rating Distribution → Histogram showing satisfaction levels.
 
 
-Representative Analysis
+**Representative Analysis**
 
 Call count and revenue breakdown by R01 – R05.
 
@@ -34,7 +34,7 @@ Ranking by calls and revenue contribution.
 Performance metrics with conditional formatting for better visibility.
 
 
-City & Customer Breakdown
+**City & Customer Breakdown**
 
 Call performance across Cincinnati, Cleveland, and Columbus.
 
@@ -49,7 +49,7 @@ Top Representative: R03 generated the highest revenue ($20.9k).
 
 Customer Engagement: Ratings lean towards 4 stars, indicating room for improvement.
 
-🛠 Tools & Technologies
+🛠 **Tools & Technologies**
 
 Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slicers)
 
